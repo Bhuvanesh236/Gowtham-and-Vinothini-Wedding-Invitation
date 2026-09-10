@@ -20,7 +20,7 @@ export const weddingData = {
       isHero: true,
       groom: "Gowtham",
       bride: "Vinothini",
-      note: "இரு இதயங்கள் இணைந்து… \nஓர் அழகிய இல்லம் தொடங்கும் தருணம்…",
+      note: "இரு இதயங்கள் இணைந்து… \n ஓர் அழகிய இல்லம் தொடங்கும் தருணம்…",
       dateLine: "14 — 15 November",
       placeLine: "Thimiri, Arcot, Tamil Nadu",
       bgVideo: "/assets/1000138134.mp4",
