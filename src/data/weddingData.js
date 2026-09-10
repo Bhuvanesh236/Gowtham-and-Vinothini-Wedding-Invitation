@@ -18,7 +18,7 @@ export const weddingData = {
       name: "The beginning",
       eyebrow: "With full hearts & our families’ blessings",
       isHero: true,
-      groom: "Gowtham❤",
+      groom: "Gowtham",
       bride: "Vinothini",
       note: "இரு இதயங்கள் இணைந்து… \nஓர் அழகிய இல்லம் தொடங்கும் தருணம்…",
       dateLine: "14 — 15 November",
