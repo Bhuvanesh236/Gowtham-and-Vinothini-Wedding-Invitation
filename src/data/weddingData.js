@@ -4,7 +4,7 @@
  */
 
 export const weddingData = {
-  groom: "Gowtham",
+  groom: "Goutham",
   bride: "Vinothini",
   headerPlace: "A wedding in Thimiri, Arcot",
   datesFormatted: "14 — 15 November",
